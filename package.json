@@ -1,4 +1,9 @@
 {
+  "name": "basic_server",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
